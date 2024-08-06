@@ -20,9 +20,9 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.email "vip.mahditaheri@gmail.com"
-          git config --global user.name "MhdiTaheri"
-          git remote set-url origin https://github.com/MhdiTaheri/V2rayCollector-py.git
+          git config --global user.email "Surfboardv2ray@protonmail.com"
+          git config --global user.name "Surfboardv2ray"
+          git remote set-url origin https://github.com/Surfboardv2ray/V2rayCollector-py.git
       
       - name: Install dependencies
         run: |
