@@ -18,11 +18,11 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Configure Git
-        run: |
-          git config --global user.email "Surfboardv2ray@protonmail.com"
-          git config --global user.name "Surfboardv2ray"
-          git remote set-url origin https://github.com/Surfboardv2ray/V2rayCollector-py.git
+#      - name: Configure Git
+#        run: |
+#          git config --global user.email "Surfboardv2ray@protonmail.com"
+#          git config --global user.name "Surfboardv2ray"
+#          git remote set-url origin https://github.com/Surfboardv2ray/V2rayCollector-py.git
       
       - name: Install dependencies
         run: |
@@ -33,6 +33,8 @@ jobs:
       - name: Run Python script
         run: |
           python main.py  # Replace with your script's path
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add -A
           git commit -m "The servers have been updated✔ - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git pull --rebase origin main
