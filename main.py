@@ -23,7 +23,7 @@ def get_v2ray_links(url):
         v2ray_configs = []
         for tag in all_tags:
             text = tag.get_text()
-            if text.startswith('vless://') or text.startswith('ss://') or text.startswith('trojan://') or text.startswith('tuic://'):
+            if text.startswith('vless://') or text.startswith('vmess://') or text.startswith('trojan://') or text.startswith('tuic://') or text.startswith('hy2://'):
                 v2ray_configs.append(text)
 
         return v2ray_configs
