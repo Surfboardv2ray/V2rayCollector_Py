@@ -1,6 +1,9 @@
 name: python V2rayCollector Script
 
 on:
+  push:
+    paths:
+      - 'main.py'
   schedule:
     - cron: '* */8 * * *'
   workflow_dispatch:
