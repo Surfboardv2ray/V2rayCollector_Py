@@ -1,3 +1,0 @@
-vless://e73be2db-179b-4de6-bf59-47f61cc5551b@178.239.145.154:6457?security=none&encryption=none&headerType=none&type=tcp#💘 @v2ray_configs_pool 💘
-vless://e73be2db-179b-4de6-bf59-47f61cc5551b@178.239.145.154:6457?security=none&encryption=none&headerType=none&type=tcp#💘 @v2ray_configs_pool 💘
-vless://e73be2db-179b-4de6-bf59-47f61cc5551b@178.239.145.154:6457?security=none&encryption=none&headerType=none&type=tcp#💘 @v2ray_configs_pool 💘
