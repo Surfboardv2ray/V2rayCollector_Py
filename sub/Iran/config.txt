@@ -1,9 +1,0 @@
-vless://48329976-88b3-4bc1-968c-dc9380345211@31.7.70.80:20566?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘
-vless://fdc4a047-1f38-449c-9f00-4bcf7d3fc43d@31.7.70.80:50775?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘
-vless://1a9e0116-164a-455e-efc2-64b3feb48cc5@31.7.70.80:30617?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘
-vless://48329976-88b3-4bc1-968c-dc9380345211@31.7.70.80:20566?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘
-vless://fdc4a047-1f38-449c-9f00-4bcf7d3fc43d@31.7.70.80:50775?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘
-vless://1a9e0116-164a-455e-efc2-64b3feb48cc5@31.7.70.80:30617?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘
-vless://48329976-88b3-4bc1-968c-dc9380345211@31.7.70.80:20566?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘
-vless://fdc4a047-1f38-449c-9f00-4bcf7d3fc43d@31.7.70.80:50775?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘
-vless://1a9e0116-164a-455e-efc2-64b3feb48cc5@31.7.70.80:30617?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘
