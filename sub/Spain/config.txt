@@ -1,3 +1,0 @@
-vless://6d94e925-3661-4590-9fd6-f5c4aa903612@151.101.134.219:443?path=%2F%40aklisvpn%40aklisvpn%40aklisvpn&security=tls&encryption=none&host=aklisvpn.com&fp=chrome&type=ws&sni=ads.google.com#💘 @v2ray_configs_pool 💘
-vless://6d94e925-3661-4590-9fd6-f5c4aa903612@151.101.134.219:443?path=%2F%40aklisvpn%40aklisvpn%40aklisvpn&security=tls&encryption=none&host=aklisvpn.com&fp=chrome&type=ws&sni=ads.google.com#💘 @v2ray_configs_pool 💘
-vless://6d94e925-3661-4590-9fd6-f5c4aa903612@151.101.134.219:443?path=%2F%40aklisvpn%40aklisvpn%40aklisvpn&security=tls&encryption=none&host=aklisvpn.com&fp=chrome&type=ws&sni=ads.google.com#💘 @v2ray_configs_pool 💘
