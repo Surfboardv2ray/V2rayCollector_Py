@@ -1,12 +1,3 @@
-vless://91133cf7-7888-4dcd-bfce-a66a57f9c660@193.228.168.112:19296?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://67d7b9f5-a10e-4491-e07f-3122bb8fadcc@46.245.67.185:30352?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@37.32.22.100:995?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://ea4ee54a-91ce-4dfc-8a8f-c8c10a97a826@78.109.194.153:49413?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://91133cf7-7888-4dcd-bfce-a66a57f9c660@193.228.168.112:19296?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://67d7b9f5-a10e-4491-e07f-3122bb8fadcc@46.245.67.185:30352?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@37.32.22.100:995?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://ea4ee54a-91ce-4dfc-8a8f-c8c10a97a826@78.109.194.153:49413?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://91133cf7-7888-4dcd-bfce-a66a57f9c660@193.228.168.112:19296?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://67d7b9f5-a10e-4491-e07f-3122bb8fadcc@46.245.67.185:30352?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@37.32.22.100:995?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://ea4ee54a-91ce-4dfc-8a8f-c8c10a97a826@78.109.194.153:49413?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://585a4670-f905-4043-a9a7-757c14f55621@h4.tcod008.info:28732?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://585a4670-f905-4043-a9a7-757c14f55621@h4.tcod008.info:28732?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://585a4670-f905-4043-a9a7-757c14f55621@h4.tcod008.info:28732?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
