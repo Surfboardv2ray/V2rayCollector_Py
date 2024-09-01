@@ -1,3 +1,12 @@
-vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829/?encryption=none&host=fast.com&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829/?encryption=none&host=fast.com&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHub
-vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829/?encryption=none&host=fast.com&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://768961c6-1172-4cfa-9d2b-d44c8be6cd0f@85.198.9.157:2070?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://4cceafba-8567-473a-8efe-ff3790ccb20c@85.9.111.42:15530?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://4cceafba-8567-473a-8efe-ff3790ccb20c@85.9.111.42:15530?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://4cceafba-8567-473a-8efe-ff3790ccb20c@85.9.111.42:15530?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://768961c6-1172-4cfa-9d2b-d44c8be6cd0f@85.198.9.157:2070?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://4cceafba-8567-473a-8efe-ff3790ccb20c@85.9.111.42:15530?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://4cceafba-8567-473a-8efe-ff3790ccb20c@85.9.111.42:15530?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://4cceafba-8567-473a-8efe-ff3790ccb20c@85.9.111.42:15530?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://768961c6-1172-4cfa-9d2b-d44c8be6cd0f@85.198.9.157:2070?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://4cceafba-8567-473a-8efe-ff3790ccb20c@85.9.111.42:15530?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://4cceafba-8567-473a-8efe-ff3790ccb20c@85.9.111.42:15530?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://4cceafba-8567-473a-8efe-ff3790ccb20c@85.9.111.42:15530?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪsʟᴀᴍɪᴄʀᴇᴘᴜʙʟɪᴄᴏғ)(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
