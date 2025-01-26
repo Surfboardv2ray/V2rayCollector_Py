@@ -59,16 +59,16 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | Sub |
 |-----|
 | [Germany](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Germany/config.txt) |
-| [Turkey](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Turkey/config.txt) |
-| [Czech Republic](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Czech%20Republic/config.txt) |
-| [Finland](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Finland/config.txt) |
+| [Romania](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Romania/config.txt) |
 | [United States](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20States/config.txt) |
+| [Japan](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Japan/config.txt) |
+| [India](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/India/config.txt) |
+| [Netherlands](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Netherlands/config.txt) |
 | [Sweden](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Sweden/config.txt) |
-| [Italy](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Italy/config.txt) |
-| [France](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/France/config.txt) |
-| [United Kingdom](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20Kingdom/config.txt) |
-| [Switzerland](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Switzerland/config.txt) |
-| [Norway](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Norway/config.txt) |
+| [Peru](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Peru/config.txt) |
+| [Israel](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Israel/config.txt) |
+| [Argentina](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Argentina/config.txt) |
+
 
 
 
