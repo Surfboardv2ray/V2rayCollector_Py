@@ -63,7 +63,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [United States](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20States/config.txt) |
 | [India](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/India/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20Kingdom/config.txt) |
-| [Switzerland](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Switzerland/config.txt) |
+
 
 
 
