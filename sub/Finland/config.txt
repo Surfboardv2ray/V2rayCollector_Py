@@ -1,33 +1,6 @@
-vless://ae1608e4-9e3b-42cf-96b7-df5855ac0042@bestco.bestshop10.ir:40240/?encryption=none&host=canva.com&type=tcp&headerType=http#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638758760053118998.zagreb-mpl-eai.info:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.139:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.71:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://ed8920ff-bc77-4ee5-9db0-c1038c57aa30@46.8.71.222:23856/?type=tcp&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.198.232:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.241.180:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.108.220.104:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.162.107:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.162.107:8880?mode=gun&security=none&encryption=none&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&type=grpc#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.162.107:8880?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://ae1608e4-9e3b-42cf-96b7-df5855ac0042@bestco.bestshop10.ir:40240/?encryption=none&host=canva.com&type=tcp&headerType=http#[🇫🇮]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638758760053118998.zagreb-mpl-eai.info:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.139:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.71:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHub
-vless://ed8920ff-bc77-4ee5-9db0-c1038c57aa30@46.8.71.222:23856/?type=tcp&encryption=none#[🇫🇮]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.198.232:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.241.180:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.108.220.104:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.162.107:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.162.107:8880?mode=gun&security=none&encryption=none&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.162.107:8880?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#[🇫🇮]t.me/ConfigsHub
-vless://ae1608e4-9e3b-42cf-96b7-df5855ac0042@bestco.bestshop10.ir:40240/?encryption=none&host=canva.com&type=tcp&headerType=http#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638758760053118998.zagreb-mpl-eai.info:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.139:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.71:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://ed8920ff-bc77-4ee5-9db0-c1038c57aa30@46.8.71.222:23856/?type=tcp&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.198.232:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.241.180:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.108.220.104:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.162.107:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.162.107:8880?mode=gun&security=none&encryption=none&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&type=grpc#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.162.107:8880?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#[🇫🇮]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
