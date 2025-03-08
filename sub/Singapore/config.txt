@@ -1,3 +1,0 @@
-vless://bb29c155-d55e-4c07-8403-0581e384f7a2@194.53.53.0:2087?security=tls&sni=a2.flcode.ir&type=grpc#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://bb29c155-d55e-4c07-8403-0581e384f7a2@194.53.53.0:2087?security=tls&sni=a2.flcode.ir&type=grpc#[🏁]t.me/ConfigsHub
-vless://bb29c155-d55e-4c07-8403-0581e384f7a2@194.53.53.0:2087?security=tls&sni=a2.flcode.ir&type=grpc#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
