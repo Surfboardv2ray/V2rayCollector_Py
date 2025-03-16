@@ -60,8 +60,8 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 |-----|
 | [Iran](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Iran/config.txt) |
 | [Estonia](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Estonia/config.txt) |
-| [Japan](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Japan/config.txt) |
 | [United States](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20States/config.txt) |
+
 
 
 
