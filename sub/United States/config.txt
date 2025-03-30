@@ -1,9 +1,3 @@
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.202.241.20:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.173.234.24:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@184.72.82.70:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.202.241.20:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.173.234.24:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@184.72.82.70:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.202.241.20:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.173.234.24:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@184.72.82.70:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443/?type=tcp&encryption=none&security=tls&sni=147135011033.sec21org.com&fp=chrome#[🇺🇸]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443/?type=tcp&encryption=none&security=tls&sni=147135011033.sec21org.com&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443/?type=tcp&encryption=none&security=tls&sni=147135011033.sec21org.com&fp=chrome#[🇺🇸]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
