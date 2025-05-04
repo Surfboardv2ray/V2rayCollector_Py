@@ -58,13 +58,18 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Sub
 | Sub |
 |-----|
+| [Finland](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Finland/config.txt) |
 | [Switzerland](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Switzerland/config.txt) |
 | [Netherlands](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Netherlands/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20Kingdom/config.txt) |
-| [Japan](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Japan/config.txt) |
-| [Hong Kong](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Hong%20Kong/config.txt) |
+| [Kazakhstan](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Kazakhstan/config.txt) |
+| [Luxembourg](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Luxembourg/config.txt) |
+| [United Arab Emirates](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20Arab%20Emirates/config.txt) |
+| [Latvia](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Latvia/config.txt) |
 | [Germany](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Germany/config.txt) |
 | [United States](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20States/config.txt) |
+| [Iran](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Iran/config.txt) |
+
 
 
 
