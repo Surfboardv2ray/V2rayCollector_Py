@@ -58,7 +58,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Sub
 | Sub |
 |-----|
-| [Poland](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Poland/config.txt) |
 | [United States](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20States/config.txt) |
 | [France](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/France/config.txt) |
 | [Russia](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Russia/config.txt) |
@@ -67,6 +66,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Germany](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Germany/config.txt) |
 | [Republic of Lithuania](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Republic%20of%20Lithuania/config.txt) |
 | [Iran](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Iran/config.txt) |
+
 
 
 
