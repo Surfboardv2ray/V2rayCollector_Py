@@ -1,0 +1,3 @@
+vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇷🇺]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ʀᴜssɪᴀ(ʀᴜ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇷🇺]t.me/ConfigsHub
+vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇷🇺]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ʀᴜssɪᴀ(ʀᴜ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
