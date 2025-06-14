@@ -1,2 +1,0 @@
-vless://ee1a7f09-5d15-4f1c-80d1-35e053b16a98@android.pcapps.ir:2025?security=none&type=tcp&headerType=http&path=%2F&host=zula.ir#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Kennington🅿️ping:73.82ms
-vless://ee1a7f09-5d15-4f1c-80d1-35e053b16a98@android.pcapps.ir:2025?security=none&type=tcp&headerType=http&path=%2F&host=zula.ir#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Kennington🅿️ping:73.82ms
