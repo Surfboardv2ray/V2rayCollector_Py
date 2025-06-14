@@ -109,8 +109,8 @@ def create_sub_section():
 
 if __name__ == "__main__":
     telegram_urls = [
-        "https://t.me/ConfigsHubPlus",
-        "https://t.me/v2ray_configs_pool",
+        "https://t.me/s/ConfigsHubPlus",
+        "https://t.me/s/v2ray_configs_pool",
     ]
 
     all_v2ray_configs = []
