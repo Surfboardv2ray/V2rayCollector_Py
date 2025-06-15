@@ -1,3 +1,0 @@
-trojan://ttfang@59.5.53.119:18548/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul (Yeongeon-dong)🅿️ping:306.23ms
-trojan://ttfang@59.5.53.119:18548/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul (Yeongeon-dong)🅿️ping:306.23ms
-trojan://ttfang@59.5.53.119:18548/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul (Yeongeon-dong)🅿️ping:306.23ms
