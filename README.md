@@ -60,12 +60,15 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 |-----|
 | [Japan](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Japan/config.txt) |
 | [Iran](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Iran/config.txt) |
-| [Netherlands](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Netherlands/config.txt) |
 | [United States](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20States/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20Kingdom/config.txt) |
 | [Bulgaria](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Bulgaria/config.txt) |
-| [Russia](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Russia/config.txt) |
+| [Curaçao](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Cura%C3%A7ao/config.txt) |
+| [Ukraine](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Ukraine/config.txt) |
+| [Kazakhstan](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Kazakhstan/config.txt) |
 | [Germany](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Germany/config.txt) |
+| [Singapore](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Singapore/config.txt) |
+
 
 
 

@@ -1,3 +1,3 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.24ms
-vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.24ms
-vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.24ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.119:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:23.42ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.119:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:23.42ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.119:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:23.42ms
