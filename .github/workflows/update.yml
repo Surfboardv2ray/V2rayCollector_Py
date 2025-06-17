@@ -5,7 +5,7 @@ on:
     paths:
       - 'main.py'
   schedule:
-    - cron: '* */8 * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch:
 
 jobs:
