@@ -1,3 +1,9 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:8.92ms
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:8.92ms
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:8.92ms
+vless://b19c4375-d847-4c40-9824-4767c88b5f38@140.245.33.135:13533?security=reality&sni=www.python.org&type=tcp&fp=chrome&pbk=s2Lr_deTRNuRBKQ15Rsx04KFcujYRFImLNVLAoGFTl8&sid=a81cba9c#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://b19c4375-d847-4c40-9824-4767c88b5f38@140.245.33.135:13533?security=reality&sni=www.python.org&type=tcp&fp=chrome&pbk=s2Lr_deTRNuRBKQ15Rsx04KFcujYRFImLNVLAoGFTl8&sid=a81cba9c#[🏁]t.me/ConfigsHub
+vless://b19c4375-d847-4c40-9824-4767c88b5f38@140.245.33.135:13533?security=reality&sni=www.python.org&type=tcp&fp=chrome&pbk=s2Lr_deTRNuRBKQ15Rsx04KFcujYRFImLNVLAoGFTl8&sid=a81cba9c#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://ttfang@8.219.77.72:5027?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:251.34ms
+trojan://ttfang@47.245.91.197:9000?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:252.99ms
+trojan://ttfang@8.219.77.72:5027?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:251.34ms
+trojan://ttfang@47.245.91.197:9000?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:252.99ms
+trojan://ttfang@8.219.77.72:5027?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:251.34ms
+trojan://ttfang@47.245.91.197:9000?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:252.99ms
