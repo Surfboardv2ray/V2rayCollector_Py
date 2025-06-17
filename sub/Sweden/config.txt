@@ -1,3 +1,0 @@
-trojan://77G4g4apO0@51.20.38.227:1935?security=tls&headerType=none&type=tcp&sni=x8-sweden-amazon-v2-cf9yw.devefun.org#[🇸🇪]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #sᴡᴇᴅᴇɴ(sᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://77G4g4apO0@51.20.38.227:1935?security=tls&headerType=none&type=tcp&sni=x8-sweden-amazon-v2-cf9yw.devefun.org#[🇸🇪]t.me/ConfigsHub
-trojan://77G4g4apO0@51.20.38.227:1935?security=tls&headerType=none&type=tcp&sni=x8-sweden-amazon-v2-cf9yw.devefun.org#[🇸🇪]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #sᴡᴇᴅᴇɴ(sᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ

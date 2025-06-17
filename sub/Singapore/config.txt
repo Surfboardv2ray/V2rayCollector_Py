@@ -1,6 +1,3 @@
-trojan://ttfang@8.219.77.72:5027?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://ttfang@47.245.91.197:9000?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://ttfang@8.219.77.72:5027?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#[🏁]t.me/ConfigsHub
-trojan://ttfang@47.245.91.197:9000?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#[🏁]t.me/ConfigsHub
-trojan://ttfang@8.219.77.72:5027?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://ttfang@47.245.91.197:9000?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:246.46ms
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:246.46ms
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:246.46ms
