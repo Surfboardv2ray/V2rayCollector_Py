@@ -1,6 +1,3 @@
-trojan://Aimer@59.7.203.104:10393?allowInsecure=0&sni=epccr.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://Aimer@59.7.203.104:10393?allowInsecure=0&sni=epccr.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-trojan://Aimer@59.7.203.104:10393?allowInsecure=0&sni=epccr.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://Aimer@59.7.203.104:10393?allowInsecure=0&sni=epccr.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Paju-si (Munbal-dong)🅿️ping:318.25ms
-trojan://Aimer@59.7.203.104:10393?allowInsecure=0&sni=epccr.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Paju-si (Munbal-dong)🅿️ping:318.25ms
-trojan://Aimer@59.7.203.104:10393?allowInsecure=0&sni=epccr.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Paju-si (Munbal-dong)🅿️ping:318.25ms
+trojan://Aimer@210.123.143.214:12514?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://Aimer@210.123.143.214:12514?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://Aimer@210.123.143.214:12514?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
