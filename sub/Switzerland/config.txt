@@ -1,0 +1,3 @@
+vless://1e9569c5-f581-463c-b667-34001ae127e8@188.213.129.55:8855?security=none&type=tcp&host=zula.ir&headerType=http#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴡɪᴛᴢᴇʀʟᴀɴᴅ(ᴄʜ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://1e9569c5-f581-463c-b667-34001ae127e8@188.213.129.55:8855?security=none&type=tcp&host=zula.ir&headerType=http#[🏁]t.me/ConfigsHub
+vless://1e9569c5-f581-463c-b667-34001ae127e8@188.213.129.55:8855?security=none&type=tcp&host=zula.ir&headerType=http#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴡɪᴛᴢᴇʀʟᴀɴᴅ(ᴄʜ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
