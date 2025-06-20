@@ -1,12 +1,3 @@
-trojan://Aimer@121.190.81.4:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://Aimer@121.134.175.190:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://Aimer@121.190.81.4:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-trojan://Aimer@121.134.175.190:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-trojan://Aimer@121.190.81.4:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://Aimer@121.134.175.190:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://Aimer@121.134.175.190:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Gwacheon-si (Jungang-dong)🅿️ping:318.11ms
-trojan://Aimer@121.190.81.4:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Hanam (Deokpung-dong)🅿️ping:315.69ms
-trojan://Aimer@121.134.175.190:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Gwacheon-si (Jungang-dong)🅿️ping:318.11ms
-trojan://Aimer@121.190.81.4:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Hanam (Deokpung-dong)🅿️ping:315.69ms
-trojan://Aimer@121.134.175.190:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Gwacheon-si (Jungang-dong)🅿️ping:318.11ms
-trojan://Aimer@121.190.81.4:50000?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Hanam (Deokpung-dong)🅿️ping:315.69ms
+trojan://Aimer@168.126.210.143:12368?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:314.27ms
+trojan://Aimer@168.126.210.143:12368?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:314.27ms
+trojan://Aimer@168.126.210.143:12368?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:314.27ms
