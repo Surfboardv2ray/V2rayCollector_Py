@@ -1,0 +1,3 @@
+vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.201:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ls.bgm2024.dpdns.org&type=ws&sni=ls.bgm2024.dpdns.org#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Havant🅿️ping:8.49ms
+vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.201:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ls.bgm2024.dpdns.org&type=ws&sni=ls.bgm2024.dpdns.org#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Havant🅿️ping:8.49ms
+vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.201:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ls.bgm2024.dpdns.org&type=ws&sni=ls.bgm2024.dpdns.org#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Havant🅿️ping:8.49ms

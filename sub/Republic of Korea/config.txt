@@ -1,6 +1,3 @@
-trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:279.69ms
-trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:279.69ms
-trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:279.69ms
+trojan://Aimer@140.238.11.169:587?allowInsecure=0&sni=epccq.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://Aimer@140.238.11.169:587?allowInsecure=0&sni=epccq.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://Aimer@140.238.11.169:587?allowInsecure=0&sni=epccq.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
