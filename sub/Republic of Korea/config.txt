@@ -1,3 +1,6 @@
-vless://d8fb7ca6-5a60-4c79-8499-ef3675425aa3@3.35.47.27:21938?security=reality&flow=xtls-rprx-vision&sni=s0.awsstatic.com&type=tcp&fp=chrome&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://d8fb7ca6-5a60-4c79-8499-ef3675425aa3@3.35.47.27:21938?security=reality&flow=xtls-rprx-vision&sni=s0.awsstatic.com&type=tcp&fp=chrome&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#[🏁]t.me/ConfigsHub
-vless://d8fb7ca6-5a60-4c79-8499-ef3675425aa3@3.35.47.27:21938?security=reality&flow=xtls-rprx-vision&sni=s0.awsstatic.com&type=tcp&fp=chrome&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:279.69ms
+trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:279.69ms
+trojan://Aimer@132.226.23.92:22053?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:279.69ms
