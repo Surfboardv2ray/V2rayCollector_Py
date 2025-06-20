@@ -1,3 +1,3 @@
-vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.150:18010?security=none&type=ws#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.150:18010?security=none&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.150:18010?security=none&type=ws#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@node11.starnode.online:8080?security=tls&headerType=none&type=tcp&sni=node5.servernode.store#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@node11.starnode.online:8080?security=tls&headerType=none&type=tcp&sni=node5.servernode.store#[🇮🇷]t.me/ConfigsHub
+trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@node11.starnode.online:8080?security=tls&headerType=none&type=tcp&sni=node5.servernode.store#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
