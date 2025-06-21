@@ -1,3 +1,6 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?path=%2F&security=&encryption=none&host=jp.laoyoutiao.link&type=ws#[🇩🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?path=%2F&security=&encryption=none&host=jp.laoyoutiao.link&type=ws#[🇩🇪]t.me/ConfigsHub
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?path=%2F&security=&encryption=none&host=jp.laoyoutiao.link&type=ws#[🇩🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=&encryption=none&host=jp.laoyoutiao.link&type=ws#[🇩🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://d9b5edbe-b8b6-46d1-93ae-0fdb1e433c7c@141.95.103.120:54436?security=none&type=grpc#[🇩🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=&encryption=none&host=jp.laoyoutiao.link&type=ws#[🇩🇪]t.me/ConfigsHub
+vless://d9b5edbe-b8b6-46d1-93ae-0fdb1e433c7c@141.95.103.120:54436?security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=&encryption=none&host=jp.laoyoutiao.link&type=ws#[🇩🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://d9b5edbe-b8b6-46d1-93ae-0fdb1e433c7c@141.95.103.120:54436?security=none&type=grpc#[🇩🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
