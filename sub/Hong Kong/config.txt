@@ -1,3 +1,3 @@
-trojan://Aimer@27.50.49.74:2087?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ʜᴏɴɢᴋᴏɴɢ(ʜᴋ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://Aimer@27.50.49.74:2087?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#[🏁]t.me/ConfigsHub
-trojan://Aimer@27.50.49.74:2087?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ʜᴏɴɢᴋᴏɴɢ(ʜᴋ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.223.213:8880?security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:8.52ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.223.213:8880?security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:8.52ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.223.213:8880?security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:8.52ms
