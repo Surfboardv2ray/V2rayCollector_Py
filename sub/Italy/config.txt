@@ -1,0 +1,5 @@
+vless://2aa80173-4cf7-4165-8689-6ce3caf6b28e@nginx.avaaaal.ir:80?mode=auto&path=%2F&security=&encryption=none&host=amindc.ir&type=xhttp#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:42.36ms
+vless://f3b6c555-86f1-46be-b69e-1dc5aef41cd6@pivaz.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pivaz-i.com&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:7.67ms
+vless://2aa80173-4cf7-4165-8689-6ce3caf6b28e@nginx.avaaaal.ir:80?mode=auto&path=%2F&security=&encryption=none&host=amindc.ir&type=xhttp#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:42.36ms
+vless://2aa80173-4cf7-4165-8689-6ce3caf6b28e@nginx.avaaaal.ir:80?mode=auto&path=%2F&security=&encryption=none&host=amindc.ir&type=xhttp#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:42.36ms
+vless://f3b6c555-86f1-46be-b69e-1dc5aef41cd6@pivaz.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pivaz-i.com&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:7.67ms
