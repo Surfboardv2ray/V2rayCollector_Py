@@ -1,6 +1,0 @@
-trojan://Aimer@118.45.113.48:16064?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Gimcheon (Bugok-dong)🅿️ping:323.94ms
-trojan://Aimer@221.165.64.92:50000?sni=ngepz.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:298.24ms
-trojan://Aimer@118.45.113.48:16064?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Gimcheon (Bugok-dong)🅿️ping:323.94ms
-trojan://Aimer@221.165.64.92:50000?sni=ngepz.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:298.24ms
-trojan://Aimer@118.45.113.48:16064?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Gimcheon (Bugok-dong)🅿️ping:323.94ms
-trojan://Aimer@221.165.64.92:50000?sni=ngepz.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:298.24ms
