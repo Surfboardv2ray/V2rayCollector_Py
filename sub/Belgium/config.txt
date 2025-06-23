@@ -1,3 +1,0 @@
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@185.193.30.172:443?security=tls&sni=showmo.wfft.ir&type=ws&host=showmo.wfft.ir&path=/sinavm-sinavm&fp=chrome&alpn=h2,http/1.1#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:9.1ms
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@185.193.30.172:443?security=tls&sni=showmo.wfft.ir&type=ws&host=showmo.wfft.ir&path=/sinavm-sinavm&fp=chrome&alpn=h2,http/1.1#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:9.1ms
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@185.193.30.172:443?security=tls&sni=showmo.wfft.ir&type=ws&host=showmo.wfft.ir&path=/sinavm-sinavm&fp=chrome&alpn=h2,http/1.1#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:9.1ms
