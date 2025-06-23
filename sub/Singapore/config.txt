@@ -1,7 +1,3 @@
-trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-vless://6ba20a61-9ca7-4f9e-ac38-95f63c888a95@balfot2.tunnelfree.org:443?security=reality&encryption=none&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ign.com&sid=dd53608f91a83f5a#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:36.94ms
-trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:8.86ms
-trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:8.86ms
-trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:8.86ms
+trojan://c28be7d4-25c8-4351-bc58-e1675855c8af@52.74.18.160:443?sni=jp.lydurlclub.top#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:185.94ms
+trojan://c28be7d4-25c8-4351-bc58-e1675855c8af@52.74.18.160:443?sni=jp.lydurlclub.top#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:185.94ms
+trojan://c28be7d4-25c8-4351-bc58-e1675855c8af@52.74.18.160:443?sni=jp.lydurlclub.top#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:185.94ms
