@@ -1,0 +1,3 @@
+vless://d4af3edf-0a58-492e-b6c8-b3f3238df7c1@ov-canada3.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Beauharnois🅿️ping:146.99ms
+vless://d4af3edf-0a58-492e-b6c8-b3f3238df7c1@ov-canada3.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Beauharnois🅿️ping:146.99ms
+vless://d4af3edf-0a58-492e-b6c8-b3f3238df7c1@ov-canada3.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Beauharnois🅿️ping:146.99ms
