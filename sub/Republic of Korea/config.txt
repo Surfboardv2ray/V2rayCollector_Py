@@ -1,3 +1,3 @@
-trojan://Aimer@121.128.254.108:34522?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-trojan://Aimer@121.128.254.108:34522?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-trojan://Aimer@121.128.254.108:34522?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+trojan://Aimer@118.46.215.195:18048?sni=agepy.aimercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+trojan://Aimer@118.46.215.195:18048?sni=agepy.aimercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://Aimer@118.46.215.195:18048?sni=agepy.aimercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
