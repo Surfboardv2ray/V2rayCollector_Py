@@ -1,0 +1,3 @@
+trojan://f1f6dad0-0622-11f0-92c5-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Erith🅿️ping:71.37ms
+trojan://f1f6dad0-0622-11f0-92c5-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Erith🅿️ping:71.37ms
+trojan://f1f6dad0-0622-11f0-92c5-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Erith🅿️ping:71.37ms
