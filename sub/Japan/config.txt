@@ -1,3 +1,0 @@
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.135.40:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴊᴀᴘᴀɴ(ᴊᴘ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.135.40:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#[🏁]t.me/ConfigsHub
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.135.40:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴊᴀᴘᴀɴ(ᴊᴘ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
