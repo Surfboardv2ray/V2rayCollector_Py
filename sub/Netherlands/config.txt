@@ -1,3 +1,3 @@
-trojan://3770966768580042752@89.39.70.165:443?security=tls&type=tcp&sni=warm-oryx.goat627.mom#[🇳🇱]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴛʜᴇɴᴇᴛʜᴇʀʟᴀɴᴅs(ɴʟ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-trojan://3770966768580042752@89.39.70.165:443?security=tls&type=tcp&sni=warm-oryx.goat627.mom#[🇳🇱]t.me/ConfigsHub
-trojan://3770966768580042752@89.39.70.165:443?security=tls&type=tcp&sni=warm-oryx.goat627.mom#[🇳🇱]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴛʜᴇɴᴇᴛʜᴇʀʟᴀɴᴅs(ɴʟ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://a7be000d-507f-42a1-920c-8e7d22ea5922@178.128.138.96:8880?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇳🇱]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴛʜᴇɴᴇᴛʜᴇʀʟᴀɴᴅs(ɴʟ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://a7be000d-507f-42a1-920c-8e7d22ea5922@178.128.138.96:8880?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇳🇱]t.me/ConfigsHub
+vless://a7be000d-507f-42a1-920c-8e7d22ea5922@178.128.138.96:8880?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇳🇱]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴛʜᴇɴᴇᴛʜᴇʀʟᴀɴᴅs(ɴʟ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
