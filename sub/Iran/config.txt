@@ -1,3 +1,3 @@
-vless://feaf65c1-8404-40ec-8bf7-eb3c1de16329@81.30.108.92:1280?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Isfahan (Sepāhān Shahr)🅿️ping:118.75ms
-vless://feaf65c1-8404-40ec-8bf7-eb3c1de16329@81.30.108.92:1280?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Isfahan (Sepāhān Shahr)🅿️ping:118.75ms
-vless://feaf65c1-8404-40ec-8bf7-eb3c1de16329@81.30.108.92:1280?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Isfahan (Sepāhān Shahr)🅿️ping:118.75ms
+vless://a6490cc3-6064-40ab-8ba0-619234a8d5dc@94.182.136.232:37725?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:99.77ms
+vless://a6490cc3-6064-40ab-8ba0-619234a8d5dc@94.182.136.232:37725?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:99.77ms
+vless://a6490cc3-6064-40ab-8ba0-619234a8d5dc@94.182.136.232:37725?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:99.77ms
