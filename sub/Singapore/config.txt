@@ -1,3 +1,0 @@
-trojan://ttfang@47.245.91.197:9000?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:257.05ms
-trojan://ttfang@47.245.91.197:9000?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:257.05ms
-trojan://ttfang@47.245.91.197:9000?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:257.05ms
