@@ -1,3 +1,6 @@
-trojan://vpn@109.120.132.80:2025?path=%2F&security=none&host=vkvd127.mycdn.me&type=ws#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.55ms
-trojan://vpn@109.120.132.80:2025?path=%2F&security=none&host=vkvd127.mycdn.me&type=ws#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.55ms
-trojan://vpn@109.120.132.80:2025?path=%2F&security=none&host=vkvd127.mycdn.me&type=ws#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.55ms
+trojan://vpn@109.120.132.80:2025?path=%2F&security=none&host=vkvd127.mycdn.me&type=ws#[🇸🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴡᴇᴅᴇɴ(sᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+trojan://telegram-id-privatevpns@13.53.109.250:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴡᴇᴅᴇɴ(sᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+trojan://vpn@109.120.132.80:2025?path=%2F&security=none&host=vkvd127.mycdn.me&type=ws#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.53.109.250:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://vpn@109.120.132.80:2025?path=%2F&security=none&host=vkvd127.mycdn.me&type=ws#[🇸🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴡᴇᴅᴇɴ(sᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+trojan://telegram-id-privatevpns@13.53.109.250:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴡᴇᴅᴇɴ(sᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ

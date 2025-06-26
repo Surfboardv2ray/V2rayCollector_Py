@@ -1,9 +1,6 @@
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#[🇮🇷]t.me/ConfigsHub
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:82.83ms
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:84.88ms
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:82.83ms
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:84.88ms
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:82.83ms
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:84.88ms
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Jahrom🅿️ping:105.09ms
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Jahrom🅿️ping:105.09ms
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Jahrom🅿️ping:105.09ms
