@@ -1,9 +1,0 @@
-vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Ahvāz (District 1)🅿️ping:415.88ms
-vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:101.72ms
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Ahvāz (District 1)🅿️ping:415.88ms
-vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:101.72ms
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Ahvāz (District 1)🅿️ping:415.88ms
-vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:101.72ms
