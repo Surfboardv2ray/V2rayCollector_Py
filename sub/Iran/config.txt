@@ -1,6 +1,9 @@
-vless://e489459f-7db3-44af-9951-91a1a4466b71@sr58.sonday.sbs:2095?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-vless://e489459f-7db3-44af-9951-91a1a4466b71@sr58.sonday.sbs:2095?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://e489459f-7db3-44af-9951-91a1a4466b71@sr58.sonday.sbs:2095?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-vless://8c43abdf-c67f-4e78-c7da-1f32a8c87c8a@srv8.safeunity.shop:18520?type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tabriz (Nowbar)🅿️ping:106.17ms
-vless://8c43abdf-c67f-4e78-c7da-1f32a8c87c8a@srv8.safeunity.shop:18520?type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tabriz (Nowbar)🅿️ping:106.17ms
-vless://8c43abdf-c67f-4e78-c7da-1f32a8c87c8a@srv8.safeunity.shop:18520?type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tabriz (Nowbar)🅿️ping:106.17ms
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://9f0577c0-0983-4907-8fa0-e46a795c92da@193.151.152.27:443?type=ws&path=%2F#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#[🇮🇷]t.me/ConfigsHub
+vless://9f0577c0-0983-4907-8fa0-e46a795c92da@193.151.152.27:443?type=ws&path=%2F#[🇮🇷]t.me/ConfigsHub
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://9f0577c0-0983-4907-8fa0-e46a795c92da@193.151.152.27:443?type=ws&path=%2F#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@185.235.197.174:80/?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Alvand🅿️ping:106.78ms
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@185.235.197.174:80/?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Alvand🅿️ping:106.78ms
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@185.235.197.174:80/?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Alvand🅿️ping:106.78ms
