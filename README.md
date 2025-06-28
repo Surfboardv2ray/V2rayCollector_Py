@@ -58,19 +58,17 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Sub
 | Sub |
 |-----|
+| [Japan](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Japan/config.txt) |
 | [Iran](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Iran/config.txt) |
-| [China](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/China/config.txt) |
+| [United Arab Emirates](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20Arab%20Emirates/config.txt) |
 | [Netherlands](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Netherlands/config.txt) |
-| [Italy](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Italy/config.txt) |
-| [Cambodia](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Cambodia/config.txt) |
-| [Canada](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Canada/config.txt) |
-| [Republic of Lithuania](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Republic%20of%20Lithuania/config.txt) |
+| [Finland](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Finland/config.txt) |
 | [United States](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20States/config.txt) |
-| [United Kingdom](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20Kingdom/config.txt) |
 | [France](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/France/config.txt) |
-| [Sweden](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Sweden/config.txt) |
+| [Spain](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Spain/config.txt) |
 | [Germany](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Germany/config.txt) |
 | [Singapore](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Singapore/config.txt) |
+
 
 
 

@@ -1,0 +1,12 @@
+vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp002.421421.xyz:20230?type=grpc&encryption=none&security=tls&path=%2f&serviceName=tj#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:251.28ms
+vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp004.421421.xyz:20230?type=grpc&encryption=none&security=tls&path=%2f&serviceName=tj#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:252.38ms
+vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp003.421421.xyz:20230?type=grpc&encryption=none&security=tls&path=%2f&serviceName=tj#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:264.33ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.169:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.18ms
+vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp002.421421.xyz:20230?type=grpc&encryption=none&security=tls&path=%2f&serviceName=tj#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:251.28ms
+vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp004.421421.xyz:20230?type=grpc&encryption=none&security=tls&path=%2f&serviceName=tj#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:252.38ms
+vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp003.421421.xyz:20230?type=grpc&encryption=none&security=tls&path=%2f&serviceName=tj#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:264.33ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.169:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.18ms
+vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp002.421421.xyz:20230?type=grpc&encryption=none&security=tls&path=%2f&serviceName=tj#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:251.28ms
+vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp004.421421.xyz:20230?type=grpc&encryption=none&security=tls&path=%2f&serviceName=tj#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:252.38ms
+vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp003.421421.xyz:20230?type=grpc&encryption=none&security=tls&path=%2f&serviceName=tj#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:264.33ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.169:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.18ms
