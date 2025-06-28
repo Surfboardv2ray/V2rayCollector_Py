@@ -1,0 +1,3 @@
+vless://65fa8051-c1e4-472a-b46c-25c000425e67@free.server.techsonic.cloud:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:188.96ms
+vless://65fa8051-c1e4-472a-b46c-25c000425e67@free.server.techsonic.cloud:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:188.96ms
+vless://65fa8051-c1e4-472a-b46c-25c000425e67@free.server.techsonic.cloud:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:188.96ms
