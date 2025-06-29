@@ -1,3 +1,0 @@
-vless://c0cbd447-6096-4eae-b7f0-d0d439353a3c@pq-japan1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:240.31ms
-vless://c0cbd447-6096-4eae-b7f0-d0d439353a3c@pq-japan1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:240.31ms
-vless://c0cbd447-6096-4eae-b7f0-d0d439353a3c@pq-japan1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:240.31ms
