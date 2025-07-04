@@ -1,3 +1,3 @@
-vless://2f393071-ac9d-4510-916f-eed41b10d2b6@65.109.191.147:2087?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:16.16ms
-vless://2f393071-ac9d-4510-916f-eed41b10d2b6@65.109.191.147:2087?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:16.16ms
-vless://2f393071-ac9d-4510-916f-eed41b10d2b6@65.109.191.147:2087?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:16.16ms
+vless://9d8750b6-ea23-4d4d-bd96-c20ce7e4bd94@135.181.201.193:51520?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:18.71ms
+vless://9d8750b6-ea23-4d4d-bd96-c20ce7e4bd94@135.181.201.193:51520?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:18.71ms
+vless://9d8750b6-ea23-4d4d-bd96-c20ce7e4bd94@135.181.201.193:51520?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:18.71ms
