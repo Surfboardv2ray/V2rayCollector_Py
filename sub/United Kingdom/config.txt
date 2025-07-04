@@ -1,0 +1,3 @@
+vless://2bc38bf1-e880-5b6b-8795-590c7a67258e@194.147.35.250:443?path=%2Fvless&security=tls&encryption=none&host=194.147.35.250&fp=chrome&type=ws&sni=zula.ir#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Coventry🅿️ping:54.33ms
+vless://2bc38bf1-e880-5b6b-8795-590c7a67258e@194.147.35.250:443?path=%2Fvless&security=tls&encryption=none&host=194.147.35.250&fp=chrome&type=ws&sni=zula.ir#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Coventry🅿️ping:54.33ms
+vless://2bc38bf1-e880-5b6b-8795-590c7a67258e@194.147.35.250:443?path=%2Fvless&security=tls&encryption=none&host=194.147.35.250&fp=chrome&type=ws&sni=zula.ir#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Coventry🅿️ping:54.33ms
