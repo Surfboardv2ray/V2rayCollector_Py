@@ -58,14 +58,18 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Sub
 | Sub |
 |-----|
-| [Republic of Korea](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Republic%20of%20Korea/config.txt) |
-| [Canada](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Canada/config.txt) |
-| [Finland](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Finland/config.txt) |
+| [Italy](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Italy/config.txt) |
+| [Armenia](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Armenia/config.txt) |
 | [United States](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20States/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20Kingdom/config.txt) |
-| [Cyprus](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Cyprus/config.txt) |
+| [Vietnam](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Vietnam/config.txt) |
+| [Bulgaria](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Bulgaria/config.txt) |
+| [Hong Kong](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Hong%20Kong/config.txt) |
+| [Curaçao](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Cura%C3%A7ao/config.txt) |
+| [Turkey](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Turkey/config.txt) |
 | [Russia](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Russia/config.txt) |
 | [Germany](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Germany/config.txt) |
+
 
 
 
