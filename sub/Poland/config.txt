@@ -1,3 +1,0 @@
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@185.238.74.193:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Lodz🅿️ping:50.99ms
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@185.238.74.193:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Lodz🅿️ping:50.99ms
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@185.238.74.193:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Lodz🅿️ping:50.99ms
