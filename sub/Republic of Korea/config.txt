@@ -1,3 +1,3 @@
-trojan://Aimer@218.158.251.112:20900?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: ɴᴏᴛ ғᴏᴜɴᴅᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-trojan://Aimer@218.158.251.112:20900?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHub
-trojan://Aimer@218.158.251.112:20900?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: ɴᴏᴛ ғᴏᴜɴᴅᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@211.34.164.17:50005?host=ngedp.ambercc.filegear-sg.me&sni=ngedp.ambercc.filegear-sg.me&type=ws#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Dalseong-gun🅿️ping:301.56ms
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@211.34.164.17:50005?host=ngedp.ambercc.filegear-sg.me&sni=ngedp.ambercc.filegear-sg.me&type=ws#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Dalseong-gun🅿️ping:301.56ms
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@211.34.164.17:50005?host=ngedp.ambercc.filegear-sg.me&sni=ngedp.ambercc.filegear-sg.me&type=ws#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Dalseong-gun🅿️ping:301.56ms

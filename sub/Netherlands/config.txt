@@ -1,6 +1,0 @@
-trojan://Aimer@194.164.32.27:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: ɴᴏᴛ ғᴏᴜɴᴅᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-trojan://Aimer@194.164.32.27:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHub
-trojan://Aimer@194.164.32.27:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: ɴᴏᴛ ғᴏᴜɴᴅᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.64:80?path=%2FChannel%20id%3A%20%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@v2ray_configs_pool📡🇧🇿®️Belize©️Belize City🅿️ping:8.28ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.64:80?path=%2FChannel%20id%3A%20%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@v2ray_configs_pool📡🇧🇿®️Belize©️Belize City🅿️ping:8.28ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.64:80?path=%2FChannel%20id%3A%20%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@v2ray_configs_pool📡🇧🇿®️Belize©️Belize City🅿️ping:8.28ms
