@@ -1,3 +1,0 @@
-trojan://telegram-id-v2rayvpnchannel@15.157.103.50:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: ɴᴏᴛ ғᴏᴜɴᴅᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-trojan://telegram-id-v2rayvpnchannel@15.157.103.50:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
-trojan://telegram-id-v2rayvpnchannel@15.157.103.50:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: ɴᴏᴛ ғᴏᴜɴᴅᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
