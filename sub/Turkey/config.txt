@@ -1,6 +1,0 @@
-vless://1262f162-23cb-4072-ab25-93d682179bb2@trcdn5.ildeco.ir:8080?mode=auto&path=%2Flogin&security=tls&encryption=none&fp=chrome&type=xhttp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Ataşehir🅿️ping:79.42ms
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.01ms
-vless://1262f162-23cb-4072-ab25-93d682179bb2@trcdn5.ildeco.ir:8080?mode=auto&path=%2Flogin&security=tls&encryption=none&fp=chrome&type=xhttp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Ataşehir🅿️ping:79.42ms
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.01ms
-vless://1262f162-23cb-4072-ab25-93d682179bb2@trcdn5.ildeco.ir:8080?mode=auto&path=%2Flogin&security=tls&encryption=none&fp=chrome&type=xhttp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Ataşehir🅿️ping:79.42ms
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.01ms
