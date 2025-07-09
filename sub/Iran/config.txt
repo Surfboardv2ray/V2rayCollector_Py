@@ -1,3 +1,3 @@
-vless://7e8c63a2-71a9-4f46-bb42-cedc17cd99b6@85.9.122.191:32073?security=none&type=tcp#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-vless://7e8c63a2-71a9-4f46-bb42-cedc17cd99b6@85.9.122.191:32073?security=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://7e8c63a2-71a9-4f46-bb42-cedc17cd99b6@85.9.122.191:32073?security=none&type=tcp#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://ff6c61d6-c45c-4928-9090-692bb920172d@185.143.234.46:443?security=tls&type=ws&headerType=&path=%2F&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp=#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:27.26ms
+vless://ff6c61d6-c45c-4928-9090-692bb920172d@185.143.234.46:443?security=tls&type=ws&headerType=&path=%2F&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp=#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:27.26ms
+vless://ff6c61d6-c45c-4928-9090-692bb920172d@185.143.234.46:443?security=tls&type=ws&headerType=&path=%2F&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp=#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:27.26ms
