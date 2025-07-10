@@ -1,3 +1,6 @@
-vless://52820f08-68e2-4162-8184-6bf7c1e11bb4@212.86.94.176:58656?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:109.75ms
-vless://52820f08-68e2-4162-8184-6bf7c1e11bb4@212.86.94.176:58656?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:109.75ms
-vless://52820f08-68e2-4162-8184-6bf7c1e11bb4@212.86.94.176:58656?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:109.75ms
+vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=&encryption=none&host=confingplus&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān (District 4)🅿️ping:117.65ms
+vless://947e9767-c1c6-62ad-6bee-b4b55265eed3@45.159.148.79:6001?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:244.2ms
+vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=&encryption=none&host=confingplus&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān (District 4)🅿️ping:117.65ms
+vless://947e9767-c1c6-62ad-6bee-b4b55265eed3@45.159.148.79:6001?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:244.2ms
+vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=&encryption=none&host=confingplus&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān (District 4)🅿️ping:117.65ms
+vless://947e9767-c1c6-62ad-6bee-b4b55265eed3@45.159.148.79:6001?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:244.2ms
