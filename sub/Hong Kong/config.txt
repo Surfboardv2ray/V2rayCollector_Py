@@ -1,3 +1,3 @@
-trojan://ttfang@192.131.142.161:46639?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Tseung Kwan O🅿️ping:262.58ms
-trojan://ttfang@192.131.142.161:46639?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Tseung Kwan O🅿️ping:262.58ms
-trojan://ttfang@192.131.142.161:46639?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Tseung Kwan O🅿️ping:262.58ms
+trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@pt.mjt000.com:443?security=tls&sni=pt.mjt000.com#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:311.52ms
+trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@pt.mjt000.com:443?security=tls&sni=pt.mjt000.com#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:311.52ms
+trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@pt.mjt000.com:443?security=tls&sni=pt.mjt000.com#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:311.52ms
