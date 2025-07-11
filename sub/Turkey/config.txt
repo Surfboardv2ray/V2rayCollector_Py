@@ -1,3 +1,0 @@
-vless://3bf13892-1d0f-5674-8b20-e978212ba96b@45.89.52.193:443?path=%2Fvless&security=tls&encryption=none&host=45.89.52.193&fp=chrome&type=ws&sni=zula.ir#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.43ms
-vless://3bf13892-1d0f-5674-8b20-e978212ba96b@45.89.52.193:443?path=%2Fvless&security=tls&encryption=none&host=45.89.52.193&fp=chrome&type=ws&sni=zula.ir#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.43ms
-vless://3bf13892-1d0f-5674-8b20-e978212ba96b@45.89.52.193:443?path=%2Fvless&security=tls&encryption=none&host=45.89.52.193&fp=chrome&type=ws&sni=zula.ir#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.43ms
