@@ -1,3 +1,3 @@
-vless://7c6a9976-adbe-4d56-8c4f-f6d7d1f98e7a@t4.vipfastconnect.site:2299?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:64.59ms
-vless://7c6a9976-adbe-4d56-8c4f-f6d7d1f98e7a@t4.vipfastconnect.site:2299?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:64.59ms
-vless://7c6a9976-adbe-4d56-8c4f-f6d7d1f98e7a@t4.vipfastconnect.site:2299?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:64.59ms
+vless://3bf13892-1d0f-5674-8b20-e978212ba96b@45.89.52.193:443?path=%2Fvless&security=tls&encryption=none&host=45.89.52.193&fp=chrome&type=ws&sni=zula.ir#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.43ms
+vless://3bf13892-1d0f-5674-8b20-e978212ba96b@45.89.52.193:443?path=%2Fvless&security=tls&encryption=none&host=45.89.52.193&fp=chrome&type=ws&sni=zula.ir#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.43ms
+vless://3bf13892-1d0f-5674-8b20-e978212ba96b@45.89.52.193:443?path=%2Fvless&security=tls&encryption=none&host=45.89.52.193&fp=chrome&type=ws&sni=zula.ir#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64.43ms
