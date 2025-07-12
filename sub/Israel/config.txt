@@ -1,3 +1,0 @@
-vless://e82a9b04-05a1-49f2-a11b-51530dcf562c@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇮🇱®️Israel©️Petah Tikva🅿️ping:90.15ms
-vless://e82a9b04-05a1-49f2-a11b-51530dcf562c@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇮🇱®️Israel©️Petah Tikva🅿️ping:90.15ms
-vless://e82a9b04-05a1-49f2-a11b-51530dcf562c@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇮🇱®️Israel©️Petah Tikva🅿️ping:90.15ms
