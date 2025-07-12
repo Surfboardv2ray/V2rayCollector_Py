@@ -1,6 +1,0 @@
-trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat627.mom&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.25ms
-vless://e144cde9-60aa-4e4c-bde9-29f9869b6187@193.176.179.213:1616?type=tcp&headerType=none&security=reality&fp=firefox&sni=refersion.com&pbk=dCGmYTxcSEJCQvlF_n6JlgX6S-3ZL5WvM0nsxKmesiM&sid=036c3c9fb2579611#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:62.97ms
-trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat627.mom&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.25ms
-vless://e144cde9-60aa-4e4c-bde9-29f9869b6187@193.176.179.213:1616?type=tcp&headerType=none&security=reality&fp=firefox&sni=refersion.com&pbk=dCGmYTxcSEJCQvlF_n6JlgX6S-3ZL5WvM0nsxKmesiM&sid=036c3c9fb2579611#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:62.97ms
-trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat627.mom&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.25ms
-vless://e144cde9-60aa-4e4c-bde9-29f9869b6187@193.176.179.213:1616?type=tcp&headerType=none&security=reality&fp=firefox&sni=refersion.com&pbk=dCGmYTxcSEJCQvlF_n6JlgX6S-3ZL5WvM0nsxKmesiM&sid=036c3c9fb2579611#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:62.97ms
