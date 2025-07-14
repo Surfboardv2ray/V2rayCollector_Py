@@ -1,3 +1,0 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.18.225:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.66ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.18.225:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.66ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.18.225:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.66ms
