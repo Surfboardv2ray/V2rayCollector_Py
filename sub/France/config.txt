@@ -1,0 +1,3 @@
+vless://eef345bb-ec43-4936-9ba5-9467a99f6545@ovh.zerooners.com:443?encryption=none&security=tls&sni=ovh.zerooners.com&type=raw#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:35.96ms
+vless://eef345bb-ec43-4936-9ba5-9467a99f6545@ovh.zerooners.com:443?encryption=none&security=tls&sni=ovh.zerooners.com&type=raw#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:35.96ms
+vless://eef345bb-ec43-4936-9ba5-9467a99f6545@ovh.zerooners.com:443?encryption=none&security=tls&sni=ovh.zerooners.com&type=raw#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:35.96ms
