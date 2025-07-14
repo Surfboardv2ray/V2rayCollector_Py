@@ -1,3 +1,0 @@
-trojan://telegram-id-privatevpns@34.247.26.242:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴇʟᴀɴᴅ(ɪᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-trojan://telegram-id-privatevpns@34.247.26.242:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@34.247.26.242:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴇʟᴀɴᴅ(ɪᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
