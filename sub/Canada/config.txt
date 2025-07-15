@@ -1,3 +1,0 @@
-trojan://umJTys2WtT@x1-canada-linode-v2-fl879.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x1-canada-linode-v2-fl879.devefun.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:102.88ms
-trojan://umJTys2WtT@x1-canada-linode-v2-fl879.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x1-canada-linode-v2-fl879.devefun.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:102.88ms
-trojan://umJTys2WtT@x1-canada-linode-v2-fl879.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x1-canada-linode-v2-fl879.devefun.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:102.88ms
