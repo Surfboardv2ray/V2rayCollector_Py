@@ -1,3 +1,0 @@
-trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Slough🅿️ping:33.83ms
-trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Slough🅿️ping:33.83ms
-trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Slough🅿️ping:33.83ms
