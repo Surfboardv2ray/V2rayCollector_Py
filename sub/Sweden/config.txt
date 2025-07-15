@@ -1,0 +1,3 @@
+vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:14.03ms
+vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:14.03ms
+vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:14.03ms
