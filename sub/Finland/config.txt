@@ -1,6 +1,0 @@
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.51ms
-vless://65cc0fe9-5448-4bfb-a207-03880734ca7b@46.62.174.147:41744?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.66ms
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.51ms
-vless://65cc0fe9-5448-4bfb-a207-03880734ca7b@46.62.174.147:41744?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.66ms
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.51ms
-vless://65cc0fe9-5448-4bfb-a207-03880734ca7b@46.62.174.147:41744?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.66ms
