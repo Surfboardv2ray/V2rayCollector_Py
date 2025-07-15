@@ -59,13 +59,15 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | Sub |
 |-----|
 | [United States](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/United%20States/config.txt) |
-| [Hong Kong](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Hong%20Kong/config.txt) |
-| [Netherlands](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Netherlands/config.txt) |
+| [Singapore](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Singapore/config.txt) |
+| [Germany](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Germany/config.txt) |
 | [Iran](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Iran/config.txt) |
 | [Sweden](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Sweden/config.txt) |
+| [Japan](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Japan/config.txt) |
 | [India](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/India/config.txt) |
 | [Czech Republic](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Czech%20Republic/config.txt) |
-| [Switzerland](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Switzerland/config.txt) |
+| [Canada](https://raw.githubusercontent.com/Surfboardv2ray/V2rayCollector_Py/main/sub/Canada/config.txt) |
+
 
 
 
