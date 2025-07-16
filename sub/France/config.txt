@@ -1,0 +1,3 @@
+trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x5-france-scaleway-v2.devefun.org#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:61.7ms
+trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x5-france-scaleway-v2.devefun.org#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:61.7ms
+trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x5-france-scaleway-v2.devefun.org#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:61.7ms
