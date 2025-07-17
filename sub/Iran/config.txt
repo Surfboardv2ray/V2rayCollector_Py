@@ -1,3 +1,3 @@
-vless://cef149e8-73a9-4802-8f9e-a51edbdb6889@ro.dtmezon.com:49750?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:96.23ms
-vless://cef149e8-73a9-4802-8f9e-a51edbdb6889@ro.dtmezon.com:49750?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:96.23ms
-vless://cef149e8-73a9-4802-8f9e-a51edbdb6889@ro.dtmezon.com:49750?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:96.23ms
+vless://78d886b8-401c-4f79-a5cc-1381590078a4@81.90.147.143:31242?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://78d886b8-401c-4f79-a5cc-1381590078a4@81.90.147.143:31242?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#[🇮🇷]t.me/ConfigsHub
+vless://78d886b8-401c-4f79-a5cc-1381590078a4@81.90.147.143:31242?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ

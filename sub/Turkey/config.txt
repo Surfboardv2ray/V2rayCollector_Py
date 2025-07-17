@@ -1,0 +1,3 @@
+vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2Fassets%3Fed&security=tls&encryption=none&host=NGINX-Z.pages.DEV&fp=chrome&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:67.29ms
+vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2Fassets%3Fed&security=tls&encryption=none&host=NGINX-Z.pages.DEV&fp=chrome&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:67.29ms
+vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2Fassets%3Fed&security=tls&encryption=none&host=NGINX-Z.pages.DEV&fp=chrome&type=ws&sni=NGINX-Z.pages.DEV#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:67.29ms
