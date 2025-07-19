@@ -1,3 +1,6 @@
-vless://1fc382b0-7286-42bb-8eac-c8e87fa80a41@185.243.49.172:32150?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Ahvāz (District 1)🅿️ping:105.52ms
-vless://1fc382b0-7286-42bb-8eac-c8e87fa80a41@185.243.49.172:32150?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Ahvāz (District 1)🅿️ping:105.52ms
-vless://1fc382b0-7286-42bb-8eac-c8e87fa80a41@185.243.49.172:32150?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Ahvāz (District 1)🅿️ping:105.52ms
+vless://bd168d18-304a-44b1-bc93-4e825a8532ab@xpanel-ir.panelfreedom.com:2093?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:89.41ms
+vless://e01fc21a-2bbf-43f2-bc69-6ade673a2c79@free.lithub.ir:252?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Eslamshahr (Shahrak-e-Shahab Sang)🅿️ping:85.65ms
+vless://bd168d18-304a-44b1-bc93-4e825a8532ab@xpanel-ir.panelfreedom.com:2093?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:89.41ms
+vless://e01fc21a-2bbf-43f2-bc69-6ade673a2c79@free.lithub.ir:252?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Eslamshahr (Shahrak-e-Shahab Sang)🅿️ping:85.65ms
+vless://bd168d18-304a-44b1-bc93-4e825a8532ab@xpanel-ir.panelfreedom.com:2093?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:89.41ms
+vless://e01fc21a-2bbf-43f2-bc69-6ade673a2c79@free.lithub.ir:252?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Eslamshahr (Shahrak-e-Shahab Sang)🅿️ping:85.65ms
