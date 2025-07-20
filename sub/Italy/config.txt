@@ -1,1 +1,0 @@
-vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@ip.ir-sub.fun:80?mode=auto&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN&security=none&alpn=http%2F1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#[🇫🇷]t.me/ConfigsHub
