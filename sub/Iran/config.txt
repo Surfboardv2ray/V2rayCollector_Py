@@ -1,3 +1,6 @@
-vless://bca5e4b5-6a66-4532-8d6f-52c76444200a@62.60.214.174:18525?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:99.53ms
-vless://bca5e4b5-6a66-4532-8d6f-52c76444200a@62.60.214.174:18525?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:99.53ms
-vless://bca5e4b5-6a66-4532-8d6f-52c76444200a@62.60.214.174:18525?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:99.53ms
+vless://8fecc951-2767-5f2b-9f60-fd87c0034829@v-04.artemis-vpn-tl.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://8fecc951-2767-5f2b-9f60-fd87c0034829@v-04.artemis-vpn-tl.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇮🇷]t.me/ConfigsHub
+vless://8fecc951-2767-5f2b-9f60-fd87c0034829@v-04.artemis-vpn-tl.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇮🇷]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://3d65dfe2-e949-4753-ac33-b63b3be2deb0@37.152.183.131:35021?security=none&type=tcp&headerType=http&path=%2F&host=skyroom.online#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Nā’īn🅿️ping:123.08ms
+vless://3d65dfe2-e949-4753-ac33-b63b3be2deb0@37.152.183.131:35021?security=none&type=tcp&headerType=http&path=%2F&host=skyroom.online#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Nā’īn🅿️ping:123.08ms
+vless://3d65dfe2-e949-4753-ac33-b63b3be2deb0@37.152.183.131:35021?security=none&type=tcp&headerType=http&path=%2F&host=skyroom.online#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Nā’īn🅿️ping:123.08ms
