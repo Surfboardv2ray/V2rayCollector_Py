@@ -1,6 +1,3 @@
-vless://a972ae73-e222-4f1d-9361-3c3c3380358a@mtun.mtechnet.ir:18080?host=speedtest.net&type=tcp&security=none&encryption=none&headerType=http#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:97.87ms
-vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@ir3.mxspeed8-3.ir:1885?host=cafeariel.ir&type=tcp&security=none&encryption=none&headerType=http#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:190.82ms
-vless://a972ae73-e222-4f1d-9361-3c3c3380358a@mtun.mtechnet.ir:18080?host=speedtest.net&type=tcp&security=none&encryption=none&headerType=http#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:97.87ms
-vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@ir3.mxspeed8-3.ir:1885?host=cafeariel.ir&type=tcp&security=none&encryption=none&headerType=http#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:190.82ms
-vless://a972ae73-e222-4f1d-9361-3c3c3380358a@mtun.mtechnet.ir:18080?host=speedtest.net&type=tcp&security=none&encryption=none&headerType=http#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:97.87ms
-vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@ir3.mxspeed8-3.ir:1885?host=cafeariel.ir&type=tcp&security=none&encryption=none&headerType=http#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:190.82ms
+vless://fafe936d-0b5a-4c46-86ad-85b65126b436@NL-SERVER-VIP-N-G-S-IS.nl-vip-nightgemshop.pledh.com:8080?security=none&type=tcp#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: ɴᴏᴛ ғᴏᴜɴᴅᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://fafe936d-0b5a-4c46-86ad-85b65126b436@NL-SERVER-VIP-N-G-S-IS.nl-vip-nightgemshop.pledh.com:8080?security=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://fafe936d-0b5a-4c46-86ad-85b65126b436@NL-SERVER-VIP-N-G-S-IS.nl-vip-nightgemshop.pledh.com:8080?security=none&type=tcp#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: ɴᴏᴛ ғᴏᴜɴᴅᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
