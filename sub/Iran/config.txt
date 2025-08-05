@@ -1,3 +1,0 @@
-vless://abc1c735-8f96-4bf3-a796-43deddda76d3@servers.xvon.in:80?path=%2F&security=tls&encryption=none&type=ws&sni=servers.xvon.in#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:124.2ms
-vless://abc1c735-8f96-4bf3-a796-43deddda76d3@servers.xvon.in:80?path=%2F&security=tls&encryption=none&type=ws&sni=servers.xvon.in#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:124.2ms
-vless://abc1c735-8f96-4bf3-a796-43deddda76d3@servers.xvon.in:80?path=%2F&security=tls&encryption=none&type=ws&sni=servers.xvon.in#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:124.2ms
