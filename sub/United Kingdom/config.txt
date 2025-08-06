@@ -1,3 +1,6 @@
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?security=tls&allowInsecure=1&type=ws&path=/&encryption=none#[🇬🇧]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅᴋɪɴɢᴅᴏᴍ(ɢʙ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?security=tls&allowInsecure=1&type=ws&path=/&encryption=none#[🇬🇧]t.me/ConfigsHub
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?security=tls&allowInsecure=1&type=ws&path=/&encryption=none#[🇬🇧]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅᴋɪɴɢᴅᴏᴍ(ɢʙ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=%2F&security=tls&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅᴋɪɴɢᴅᴏᴍ(ɢʙ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=%2F&security=tls&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅᴋɪɴɢᴅᴏᴍ(ɢʙ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=%2F&security=tls&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=%2F&security=tls&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=%2F&security=tls&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅᴋɪɴɢᴅᴏᴍ(ɢʙ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=%2F&security=tls&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅᴋɪɴɢᴅᴏᴍ(ɢʙ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
