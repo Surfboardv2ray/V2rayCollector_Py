@@ -1,0 +1,6 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:24.27ms
+vless://f0263bd6-570a-4bc0-bbb9-6fad124b18cf@62.133.62.166:2095?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:14.98ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:24.27ms
+vless://f0263bd6-570a-4bc0-bbb9-6fad124b18cf@62.133.62.166:2095?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:14.98ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:24.27ms
+vless://f0263bd6-570a-4bc0-bbb9-6fad124b18cf@62.133.62.166:2095?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:14.98ms
