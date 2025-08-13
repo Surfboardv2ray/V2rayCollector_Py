@@ -1,3 +1,9 @@
-vless://a9cbc8ed-7b87-4c1b-8652-4054de2310f2@x9.seodarkx.ir:2082/?type=ws&path=%2F&host=&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:131.33ms
-vless://a9cbc8ed-7b87-4c1b-8652-4054de2310f2@x9.seodarkx.ir:2082/?type=ws&path=%2F&host=&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:131.33ms
-vless://a9cbc8ed-7b87-4c1b-8652-4054de2310f2@x9.seodarkx.ir:2082/?type=ws&path=%2F&host=&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:131.33ms
+vless://bdda4f31-3c11-4d3b-9bbe-90ff817154fb@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:79.97ms
+vless://dba12705-797b-4a43-99c5-ab1ed06ea484@ll4.rvncloud.ir:51457?security=none&encryption=none&host=shatel.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān (District 3)🅿️ping:98.14ms
+vless://585b8acd-481c-4cef-9c69-74eefd17980c@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:79.97ms
+vless://bdda4f31-3c11-4d3b-9bbe-90ff817154fb@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:79.97ms
+vless://dba12705-797b-4a43-99c5-ab1ed06ea484@ll4.rvncloud.ir:51457?security=none&encryption=none&host=shatel.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān (District 3)🅿️ping:98.14ms
+vless://585b8acd-481c-4cef-9c69-74eefd17980c@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:79.97ms
+vless://bdda4f31-3c11-4d3b-9bbe-90ff817154fb@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:79.97ms
+vless://dba12705-797b-4a43-99c5-ab1ed06ea484@ll4.rvncloud.ir:51457?security=none&encryption=none&host=shatel.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān (District 3)🅿️ping:98.14ms
+vless://585b8acd-481c-4cef-9c69-74eefd17980c@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:79.97ms
